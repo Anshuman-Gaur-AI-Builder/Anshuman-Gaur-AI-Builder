@@ -1,6 +1,6 @@
 # Anshuman Gaur
 
-VP of Product Management at ADP, Microsoft alumni (Viva Connections), and hands-on AI builder. I ship product strategy by day and build with Claude Code, React, and TypeScript by night. 9 patents across Microsoft and ADP, now building AI-native tools that sit at the intersection of enterprise workforce data and large language models.
+CPO/VP of Product Management at ADP for large, global enterprise-focused HCM products. Microsoft alumni (Viva Connections), and hands-on AI builder. I ship product strategy by day and build with Claude Code, React, and TypeScript by night. 9 patents across Microsoft and ADP, now building AI-native tools that sit at the intersection of enterprise workforce data and large language models.
 
 ## What I build
 
@@ -8,7 +8,7 @@ VP of Product Management at ADP, Microsoft alumni (Viva Connections), and hands-
 - **HCM + AI products** — dashboards and intelligence layers that turn workforce data into decisions
 - **Agentic architectures** — multi-step tool-chaining systems with Claude as the reasoning engine
 
-## Recent projects (built in 10 days with Claude Code)
+## Recent projects (built in 5 days with Claude Code)
 
 | Project | What it does | Stack | Link |
 |---------|-------------|-------|------|
@@ -27,7 +27,7 @@ VP of Product Management at ADP, Microsoft alumni (Viva Connections), and hands-
 - **9 patents** across Microsoft and ADP
 - **ADP Inventor of the Year**
 - **Senior PM at Microsoft** — shipped Viva Connections, Microsoft's employee experience platform
-- **VP of Product Management at ADP** — leading product strategy across workforce technology
+- **CPO/VP of Product Management at ADP** — leading product strategy for large, global enterprise-focused HCM products
 
 ## Connect
 
